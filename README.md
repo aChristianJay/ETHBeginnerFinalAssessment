@@ -19,8 +19,7 @@ command to run if program contains helper info
 Authors
 Contributors names and contact info
 
-ex. Dominique Pizzie
-ex. @DomPizzie
+Christian Jay Aquino
 
 **#License**
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
